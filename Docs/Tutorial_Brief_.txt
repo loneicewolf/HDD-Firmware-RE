@@ -1,0 +1,6 @@
+# Brief tutorial on how to:
+
+## Identify & Interact with HDDController chip (the chip, or "board") that enables the pc and the actual Disk to talk to each other. This chip (acting as a gateway/bridge) 
+Will be the first thing I write about.
+
+coming soon
