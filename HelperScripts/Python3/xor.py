@@ -3,7 +3,6 @@ def xor(data,key):
     keylen = len(key)
     for i in range(0,len(data)):
       b += chr(ord(data[i]) ^ ord(key[i % keylen]))
-      print()
     return b
 
 
